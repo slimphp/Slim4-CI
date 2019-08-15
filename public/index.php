@@ -1,4 +1,11 @@
-<?php
+<?php /** @noinspection PhpUnusedParameterInspection */
+/**
+ * Slim4 CI (https://github.com/adriansuter/Slim4-CI)
+ *
+ * @license https://github.com/adriansuter/Slim4-CI/blob/master/LICENSE (MIT License)
+ */
+
+declare(strict_types=1);
 
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
